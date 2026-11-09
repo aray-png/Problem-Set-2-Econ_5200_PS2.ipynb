@@ -1,7 +1,7 @@
 # AI Appendix: Task 4.1, The Sequential Design
 
 **Model:** Claude Opus 5.5 (Anthropic), in the Claude app
-**Date:** November 9, 2026
+**Date:** November 8, 2026
 
 ---
 
